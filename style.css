@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(90deg, rgb(234, 244, 244), rgb(164, 195, 178));
+    color: #6b9080;
+    font-family: "Bauhaus 93", sans-serif;
+}
+
+.page{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+h1 {
+    font-size: 100px;
+}
